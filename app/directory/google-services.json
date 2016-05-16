@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70074260933",
+    "project_id": "stable-reactor-131323"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70074260933:android:4fa672b918c48383",
+        "android_client_info": {
+          "package_name": "com.example.pinal.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70074260933-fjep0hmr7a63qa0ui9esm3c17ir9na6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pinal.googlelogin",
+            "certificate_hash": "EF5E71476E02F81388C0805FEDA7076747B2623E"
+          }
+        },
+        {
+          "client_id": "70074260933-uiq97ai1mu1jua5bt6k5vertmo74hg1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1acA33duOVPwn4rUriLxXROuxwvSQO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
